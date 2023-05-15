@@ -1,0 +1,368 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .corpo {
+    width: 100%;
+    height: 1024px;
+    background: rgba(25,24,24,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v2_37 {
+    width: 200px;
+    height: 200px;
+    background: url("imagens/foto-proenca.jpg");
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 408px;
+    left: 78px;
+    border-radius: 50%;
+  }
+  .v2_37:hover {
+        font-size: 130%;
+        transition: 0.5s;
+        transform: scale(1.1);
+        cursor: pointer ;
+        transition: .3s
+  }
+  .v2_38 {
+    width: 200px;
+    height: 200px;
+    background: url("imagens/foto-souza.jpg");
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 395px;
+    left: 288px;
+    border-radius: 50%;
+  }
+  .v2_38:hover {
+    font-size: 130%;
+        transition: 0.5s;
+        transform: scale(1.1);
+        cursor: pointer ;
+        transition: .3s
+  }
+  .v9_7 {
+    width: 70px;
+    height: 69px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 478px;
+    left: 355px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+  }
+  .v9_8 {
+    width: 70px;
+    height: 69px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 478px;
+    left: 145px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+  }
+  .v2_39 {
+    width: 200px;
+    height: 200px;
+    background: url("imagens/foto-joao.jpg");
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 395px;
+    left: 498px;
+    border-radius: 50%;
+  }
+  .v2_39:hover {
+        font-size: 130%;
+        transition: 0.5s;
+        transform: scale(1.1);
+        cursor: pointer ;
+        transition: .3s
+  }
+  .v2_40 {
+    width: 200px;
+    height: 200px;
+    background: url("imagens/foto-kaua.jpg");
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 395px;
+    left: 918px;
+    border-radius: 50%;
+  }
+  .v2_40:hover {
+    font-size: 130%;
+    transition: 0.5s;
+    transform: scale(1.1);
+    cursor: pointer ;
+    transition: .3s
+  }
+  .v2_41 {
+    width: 200px;
+    height: 200px;
+    background: url("imagens/foto.silvao.jpg");
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 395px;
+    left: 708px;
+    border-radius: 50%;
+    
+  }
+  .v2_41:hover {
+    font-size: 130%;
+    transition: 0.5s;
+    transform: scale(1.1);
+    cursor: pointer ;
+    transition: .3s
+    
+  }
+  .v2_42 {
+    width: 200px;
+    height: 200px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 395px;
+    left: 1128px;
+    border-radius: 50%;
+  }
+  .v2_43 {
+    width: 89px;
+    color: rgba(0,0,0,0.7900000214576721);
+    position: absolute;
+    top: 330px;
+    left: 1145px;
+    font-family: Croissant One;
+    font-weight: Regular;
+    font-size: 300px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v2_45 {
+    width: 600px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 242px;
+    left: 400px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    border-radius: 10px;
+    background-color:  #ae01ff;
+    text-align: center;
+  }
+  .v2_48 {
+    width: 456px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 621px;
+    left: 113px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 0.8999999761581421;
+    text-align: left;
+  }
+  .v2_49 {
+    width: 456px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 621px;
+    left: 354px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 0.8999999761581421;
+    text-align: left;
+  }
+  .v2_50 {
+    width: 456px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 617px;
+    left: 582px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 0.8999999761581421;
+    text-align: left;
+  }
+  .v2_51 {
+    width: 456px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 617px;
+    left: 783px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 0.8999999761581421;
+    text-align: left;
+  }
+  .v2_52 {
+    width: 456px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 617px;
+    left: 1000px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 0.8999999761581421;
+    text-align: left;
+  }
+  .v2_53 {
+    width: 456px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 617px;
+    left: 1139px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 0.8999999761581421;
+    text-align: left;
+  
+  }
+  .v2_62 {
+    width: 150px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 810px;
+    left: 639px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: SemiBold;
+    font-size: 40px;
+    opacity: 1;
+    background-color: #ae01ff;
+    border-radius: 10px;
+    text-align: left;
+    
+    
+  }
+
+  .btn {
+    text-align: left;
+    top: 814px;
+    left: 639px;
+    position: absolute;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    border: 2px solid #ae01ff;
+    border-radius: 0.6em;
+    color: #ae01ff;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+  .btn:hover, .btn:focus {
+    color: #fff;
+    outline: 0;
+    position: relative;
+  }
+  
+  .first {
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    
+  }
+  .first:hover {
+    box-shadow: 0 0 40px 40px #ae01ff inset;
+  }
+
+  .v9_6 {
+    width: 70px;
+    height: 69px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 477px;
+    left: 565px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+  }
+  .v9_11 {
+    width: 70px;
+    height: 69px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 478px;
+    left: 769px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+  }
+  .v9_12 {
+    width: 70px;
+    height: 69px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 477px;
+    left: 985px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+  }
