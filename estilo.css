@@ -273,9 +273,9 @@
 
   .btn {
     text-align: left;
-    top: 814px;
+    top: 200px;
     left: 639px;
-    position: absolute;
+    position: fixed;
     box-sizing: border-box;
     -webkit-appearance: none;
        -moz-appearance: none;
@@ -303,10 +303,10 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
   }
-  .btn:hover, .btn:focus {
-    color: #fff;
+  .btn:hover {
+    color: #bb28ff;
     outline: 0;
-    position: relative;
+    transform: scale(1.1);
   }
   
   .first {
